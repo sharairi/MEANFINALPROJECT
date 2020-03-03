@@ -4,8 +4,3 @@ module.exports = {
   database:
     'mongodb://localhost/smartshopping'
 };
-
-
-// 'mongodb://ramteja:ramteja@ds241019.mlab.com:41019/ecommerce',
-//   port: 3000,
-//   secret: 'RamtejaRepaka2012312321'
